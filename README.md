@@ -94,4 +94,11 @@ Customer Analysis:
 To present findings in an accessible and interactive format, a dashboard was created using Microsoft Power BI. This dashboard allows stakeholders to dynamically filter the data and explore sales trends on their own.
 - <a href="https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/blob/main/AMAZON%20SALES%20ANALYSIS.pdf">view Dashboard</a>
 
+### Key Features of the Dashboard:
+
+*   **KPI Cards:** Displaying total revenue, total quantity sold, and average customer rating.
+*   **Sales by Product Line:** A pie chart showing the performance of each product category.
+*   **Total no of payment methods  Over Month:** A bar chart illustrating payment method for monthly basis.
+*   **Interactive Filters:** Slicers for Gender, City,  that update all visuals on the dashboard.
+
 
