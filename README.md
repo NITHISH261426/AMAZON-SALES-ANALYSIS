@@ -92,5 +92,6 @@ Customer Analysis:
 ## 📊 Power BI Dashboard
 
 To present findings in an accessible and interactive format, a dashboard was created using Microsoft Power BI. This dashboard allows stakeholders to dynamically filter the data and explore sales trends on their own.
+- <a href="https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/blob/main/AMAZON%20SALES%20ANALYSIS.pdf">view Dashboard</a>
 
 
