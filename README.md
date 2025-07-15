@@ -101,4 +101,12 @@ To present findings in an accessible and interactive format, a dashboard was cre
 *   **Total no of payment methods  Over Month:** A bar chart illustrating payment method for monthly basis.
 *   **Interactive Filters:** Slicers for Gender, City,  that update all visuals on the dashboard.
 
+## 🏁 Conclusion & Recommendations
+
+Based on the analysis, several actionable recommendations can be made:
+
+1.  **Inventory Management:** Increase stock levels for the top-performing product lines especially Electronic Accessories,Food and Beverages in all branches.
+2.  **Marketing Strategy:** Launch targeted marketing campaigns in Mandalay[B]  to boost performance and compete with other branches.
+3.  **Staffing Optimization:** Ensure maximum staff availability during peak sales periods on Afternoon.
+
 
