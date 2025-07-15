@@ -59,6 +59,15 @@ The core analysis of this project was performed using Microsoft SQL Server. The 
 
 - <a href="https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/blob/main/AMAZON%20SALES%20ANALYSIS%20NK.sql">sqlfile</a>
 
+## 💡 Key Findings & Insights
+
+Product Analysis: 
+
+- • Highest Sales Product Line: Electronic Accessories (Units Sold:971) 
+- • Highest Revenue Product Line: Food and Beverages ($ 56144.96) 
+- • Lowest Sales Product Line: Health and Beauty (Unit Sold: 854) 
+- • Lowest Revenue Product Line: Health and Beauty ($ 49193.84) 
+
 
 
 
