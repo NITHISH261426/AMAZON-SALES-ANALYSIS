@@ -57,7 +57,7 @@ etc....
 
 The core analysis of this project was performed using Microsoft SQL Server. The process involved data cleaning, feature engineering, and running analytical queries to answer key business questions.
 
-- <a href"https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/blob/main/AMAZON%20SALES%20ANALYSIS%20NK.sql">sqlfile</a>
+- <a href="https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/blob/main/AMAZON%20SALES%20ANALYSIS%20NK.sql">sqlfile</a>
 
 
 
