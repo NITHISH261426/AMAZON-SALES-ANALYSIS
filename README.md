@@ -23,8 +23,9 @@ etc....
 
 
 
-##Dataset 
+###Dataset 
 - The data used for this project is the "Amazon Sales" dataset, which contains transaction-level data for sales across three different branches. The dataset includes information on products, customers, and      payment methods.
+
 - <a href="https://github.com/NITHISH261426/AMAZON-SALES-ANALYSIS/commit/0e3ff38c5bb0f24103e7d7c24d0d010d523d18eb">Dataset</a>
 
 ### Data Dictionary
