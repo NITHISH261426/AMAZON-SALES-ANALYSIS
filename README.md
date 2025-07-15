@@ -63,11 +63,29 @@ The core analysis of this project was performed using Microsoft SQL Server. The 
 
 Product Analysis: 
 
-- • Highest Sales Product Line: Electronic Accessories (Units Sold:971) 
-- • Highest Revenue Product Line: Food and Beverages ($ 56144.96) 
-- • Lowest Sales Product Line: Health and Beauty (Unit Sold: 854) 
-- • Lowest Revenue Product Line: Health and Beauty ($ 49193.84) 
+- Highest Sales Product Line: Electronic Accessories (Units Sold:971) 
+- Highest Revenue Product Line: Food and Beverages ($ 56144.96) 
+- Lowest Sales Product Line: Health and Beauty (Unit Sold: 854) 
+- Lowest Revenue Product Line: Health and Beauty ($ 49193.84) 
 
+Sales Analysis: 
 
+- Month With Highest Revenue: January ($ 116292.11)
+- City & Branch With Highest Revenue: Naypyitaw[C] ($ 110568.86)
+- Month With Lowest Revenue: February ($ 97219.58)
+- City & Branch With Lowest Revenue: Mandalay[B] ($ 106198.00)
+- Peak Sales Time Of Day: Afternoon 
+
+Customer Analysis: 
+
+- Most Predominant Gender: Female
+- Most Predominant Customer Type: Member
+- Highest Revenue Gender: Female ($ 167883.26)
+- Highest Revenue Customer Type: Member ($ 164223.81)
+- Most Popular Product Line (Male): Health and Beauty
+- Most Popular Product Line (Female): Fashion Accessories
+- Distribution Of Members Based On Gender: Male(240) Female(261)
+- Sales Male: 2641 units
+- Sales Female: 2869 units 
 
 
