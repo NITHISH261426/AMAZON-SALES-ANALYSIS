@@ -4,4 +4,10 @@ An analysis of Amazon sales data to understand key factors influencing sales acr
 ## Project Objective
 The primary goal of this project is to analyze Amazon's sales data to uncover insights into customer behavior and product performance. The final deliverable is an interactive dashboard that allows stakeholders to easily explore sales patterns and make data-driven decisions.
 
+## 🛠️ Technologies Used
+
+*   **Data Analysis:** Microsoft SQL Server (MS SQL)
+*   **Data Visualization:** Microsoft Power BI
+*   **Database Management:** SQL Server Management Studio (SSMS)
+
 
