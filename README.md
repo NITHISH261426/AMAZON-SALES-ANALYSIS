@@ -87,6 +87,10 @@ Customer Analysis:
 - Most Popular Product Line (Female): Fashion Accessories
 - Distribution Of Members Based On Gender: Male(240) Female(261)
 - Sales Male: 2641 units
-- Sales Female: 2869 units 
+- Sales Female: 2869 units
+
+## 📊 Power BI Dashboard
+
+To present findings in an accessible and interactive format, a dashboard was created using Microsoft Power BI. This dashboard allows stakeholders to dynamically filter the data and explore sales trends on their own.
 
 
