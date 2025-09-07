@@ -7,7 +7,7 @@ The primary goal of this project is to analyze Amazon's sales data to uncover in
 ## 🛠️ Technologies Used
 
 *   **Data Analysis:** Microsoft SQL Server (MS SQL)
-*   **Data Visualization:** Microsoft Power BI
+*   **Data Visualization:** Microsoft Power BI 
 *   **Database Management:** SQL Server Management Studio (SSMS)
 
 ## ❓ Key Questions Addressed
